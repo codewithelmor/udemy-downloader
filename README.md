@@ -63,6 +63,7 @@ It is up to you to acquire the key and key ID. Please **DO NOT** ask me for help
 -   Enter the key and key id in the `keyfile.json`
 -   ![keyfile example](https://i.imgur.com/e5aU0ng.png)
 -   ![example key and kid from console](https://i.imgur.com/awgndZA.png)
+-   ![example key and kid from console](https://i.ibb.co/HztWXRc/Screenshot-2024-04-18-015909.png)
 
 ## Cookies
 
