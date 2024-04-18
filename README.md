@@ -43,7 +43,9 @@ You will need to get a few things before you can use this program:
 -   Decryption Key
 -   Udemy Course URL
 -   Udemy Bearer Token (aka acccess token for udemy-dl users)
+-   ![example Bearer Token and where to find them](https://i.ibb.co/0GYpCjp/Screenshot-2024-04-18-015644.png)
 -   Udemy cookies (only required for subscription plans - see [Udemy Subscription Plans](#udemy-subscription-plans))
+
 
 ## Setting up
 
